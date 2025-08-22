@@ -1,6 +1,6 @@
 "use client";
 
-import { nodeTypes } from "@/app/Types/NodeTypes";
+import { nodeTypes } from "@/app/Nodes/NodeTypes";
 import "reactflow/dist/style.css";
 import React, { useState } from "react";
 import ReactFlow, {
