@@ -23,7 +23,7 @@ export function RectangleNode({ data }: NodeProps<NodeData>) {
     <div
       style={{
         minWidth: 120,
-        padding: "20px 15px",
+        padding: "50px 20px",
         borderRadius: 8,
         backgroundColor: data.color || "#3490dc",
         textAlign: "center",

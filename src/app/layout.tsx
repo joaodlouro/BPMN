@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "BPMN Playground",
-  description: "Minimal BPMN editor in Next.js",
+  description: "BPMN editor in Next.js",
 };
 
 export default function RootLayout({
